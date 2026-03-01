@@ -2,7 +2,7 @@
 
 A full-stack to-do app built with **MongoDB**, **Express**, **React**, and **Node.js**. Users sign in with a username, track login history, and manage tasks with priorities and filters. The API is deployed as serverless functions on Vercel alongside the React frontend.
 
-**Live app:** [Add your Vercel link here] · **Source code:** [Add your GitHub repo link here]
+**Live app:** https://todo-app-mern-pi.vercel.app · **Source code:** https://github.com/SanikaBillava/todo-app
 
 ---
 
